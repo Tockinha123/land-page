@@ -70,7 +70,7 @@ a {
 }
 
 .centro2 img {
-  height: 150px;
+  height: 170px;
   width: auto;
   border-radius: 15px;
   border: #3882f6 solid 3px;
@@ -79,7 +79,7 @@ a {
 .centro2 {
   display: flex;
   flex-direction: column;
-  padding: 40px 260px;
+  padding: 80px 260px;
   align-items: center;
   gap: 30px;
 }
