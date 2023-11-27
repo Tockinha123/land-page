@@ -68,3 +68,30 @@ a {
   gap: 70px;
   text-align: justify;
 }
+
+.centro2 img {
+  height: 150px;
+  width: auto;
+  border-radius: 15px;
+  border: #3882f6 solid 3px;
+}
+
+.centro2 {
+  display: flex;
+  flex-direction: column;
+  padding: 40px 260px;
+  align-items: center;
+  gap: 30px;
+}
+
+.conteiner1 {
+  display: flex;
+  text-align: center;
+  gap: 30px;
+}
+
+.alunos {
+  font-size: 36px;
+  font-weight: 800;
+  color: #1f2937;
+}
