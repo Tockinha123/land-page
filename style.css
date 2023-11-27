@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,400;0,800;1,300&family=Vina+Sans&display=swap");
+
+body {
+  box-sizing: border-box;
+  margin: 0;
+  font-family: "Mulish", sans-serif;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #1f2937;
+  padding: 40px 260px;
+}
+
+.logo {
+  align-self: center;
+  font-size: 36px;
+  color: #f9faf8;
+  font-family: "Vina Sans", sans-serif;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+a {
+  text-decoration: none;
+  color: #e5e7eb;
+  font-size: 18px;
+}
+
+.header ul {
+  display: flex;
+  gap: 18px;
+  align-self: center;
+}
+
+.centro1 h1 {
+  font-size: 48px;
+  font-weight: 800;
+  color: #f9faf8;
+  margin-top: 0;
+  margin-bottom: 3px;
+}
+
+.centro1 p {
+  font-size: 18px;
+  color: #e5e7eb;
+}
+.centro1 button {
+  color: #f9faf8;
+  background-color: #3882f6;
+  padding: 8px;
+  border-radius: 10px;
+}
+.centro1 img {
+  height: 400px;
+  width: auto;
+  border-radius: 25px;
+}
+
+.centro1 {
+  display: flex;
+  background-color: #1f2937;
+  padding: 40px 260px;
+  gap: 70px;
+  text-align: justify;
+}
