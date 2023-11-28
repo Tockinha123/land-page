@@ -95,3 +95,66 @@ a {
   font-weight: 800;
   color: #1f2937;
 }
+
+.quote {
+  background-color: #e5e7eb;
+  padding: 120px 260px;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.citacao {
+  text-align: justify;
+  color: #1f2937;
+  font-weight: 200;
+  font-size: 28px;
+  font-style: italic;
+}
+.autor {
+  text-align: end;
+  font-weight: 800;
+  font-size: 16px;
+  color: #1f2937;
+}
+
+.centro3 {
+  display: flex;
+  margin: 80px 350px;
+  justify-content: center;
+  align-items: center;
+  background-color: #3882f6;
+  border-radius: 8px;
+  padding: 25px 0;
+  gap: 120px;
+}
+
+.centro3 button {
+  background-color: #3882f6;
+  border: #f9faf8 solid 1px;
+  padding: 10px 10px;
+  color: #f9faf8;
+  border-radius: 5px;
+}
+
+.footer {
+  padding: 40px 260px;
+  text-align: center;
+  background-color: #1f2937;
+  color: #f9faf8;
+}
+
+.centro3 p {
+  margin: 0;
+}
+
+.bold {
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.frase {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
